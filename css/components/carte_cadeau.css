@@ -1,0 +1,29 @@
+.carte_cadeau {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.3);
+  border-radius:6px;
+  margin: 10px 20px 10px 0px;
+  flex-basis: 350px;
+  flex-grow: 1;
+
+}
+
+.carte_cadeau img {
+  width : 250px;
+  height: 230px;
+  margin-left: 30px;
+}
+
+.carte_cadeau h3 {
+
+padding-left: 40px;
+font-size: 24px;
+flex-grow: 1;
+}
+
+
+
+

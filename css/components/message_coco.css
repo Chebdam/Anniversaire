@@ -1,0 +1,15 @@
+.message_coco {
+
+margin-bottom: 40px;
+}
+
+.message_coco p {
+
+padding-top: 1px;
+padding-bottom: 1px;
+text-align: justify;
+color: black;
+margin:0;
+font-weight: 400;
+font-family: 'Lora', serif;
+}
